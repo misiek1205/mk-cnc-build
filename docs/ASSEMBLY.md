@@ -98,7 +98,7 @@ This is an **open cradle**, not a closed box:
 
 1. Slide an **M5 T-nut** into the T-slot.
 2. Seat the printed **key** into the same slot (anti-rotation).
-3. From the **outside**, put **M5×12** through the **counterbored hole above the cradle** into the T-nut. That screw is clear — nothing covers the head.
+3. From the **outside**, put **M5×12** through the **single ø9.4 recess above the cradle (9.2 mm head)** into the T-nut. That screw is clear — nothing covers the head.
 4. Drop the bare microswitch into the cradle **below** the M5. The **bottom is open** for the three solder pins and wires; the **lever side is open** so the metal blade is free.
 5. Clamp the switch with **2× M2×10–12** through the side ears and the switch body holes.
 
