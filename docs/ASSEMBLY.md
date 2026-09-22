@@ -90,13 +90,22 @@ One-piece stadium/capsule shoe with a **clamp slot** on the spindle and a single
 
 ## Optional: endstop mounts
 
-Print `endstop_mount_2020` ×4 (T-slot key + M5 into a T-nut; bare microswitch (~12.5×5.8) on 2× M2 in a pocket) and optional `endstop_flag` ×0–4.
+Print `endstop_mount_2020` ×4 and optional `endstop_flag` ×0–4 (only if the ~10 mm lever cannot reach a moving face).
 
-Placement (no holes in aluminium):
+### How the mount attaches to 2020 V-slot
+
+This is an **open cradle**, not a closed box:
+
+1. Slide an **M5 T-nut** into the T-slot.
+2. Seat the printed **key** into the same slot (anti-rotation).
+3. From the **outside**, put **M5×12** through the **counterbored hole above the cradle** into the T-nut. That screw is clear — nothing covers the head.
+4. Drop the bare microswitch into the cradle **below** the M5. The **bottom is open** for the three solder pins and wires; the **lever side is open** so the metal blade is free.
+5. Clamp the switch with **2× M2×10–12** through the side ears and the switch body holes.
+
+### Placement (no holes in aluminium)
 
 1. **Y-L / Y-R** (dual-Y squaring): outer face of each upper side 380 near the rear (Y motors).
 2. **X home**: rear face of the bridge near the X motor.
 3. **Z home (up)**: front face of a Z column just under the motor tower.
 
 With only three switches: fit **Y-L + Y-R + Z** first.
-
