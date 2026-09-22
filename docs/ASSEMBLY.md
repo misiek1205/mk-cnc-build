@@ -94,13 +94,12 @@ Print `endstop_mount_2020` ×4 and optional `endstop_flag` ×0–4 (only if the 
 
 ### How the mount attaches to 2020 V-slot
 
-This is an **open cradle**, not a closed box:
+Flat plate only — no cradle/frame around the switch:
 
 1. Slide an **M5 T-nut** into the T-slot.
-2. Seat the printed **key** into the same slot (anti-rotation).
-3. From the **outside**, put **M5×12** through the **single ø9.4 recess above the cradle (9.2 mm head)** into the T-nut. That screw is clear — nothing covers the head.
-4. Drop the bare microswitch into the cradle **below** the M5. The **bottom is open** for the three solder pins and wires; the **lever side is open** so the metal blade is free.
-5. Clamp the switch with **2× M2×10–12** through the side ears and the switch body holes.
+2. Seat the printed **key** into the same slot.
+3. From the outside, **M5×12** through the **single ø9.4 recess** (9.2 mm head) into the T-nut.
+4. Screw the bare microswitch flat onto the plate with **2× M2** (ø2.0 holes, ~6.5 mm pitch). Pins and lever stay free in air.
 
 ### Placement (no holes in aluminium)
 
@@ -109,3 +108,4 @@ This is an **open cradle**, not a closed box:
 3. **Z home (up)**: front face of a Z column just under the motor tower.
 
 With only three switches: fit **Y-L + Y-R + Z** first.
+
