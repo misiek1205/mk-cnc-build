@@ -88,15 +88,14 @@ One-piece stadium/capsule shoe with a **clamp slot** on the spindle and a single
 4. Push a ~ø35 vacuum hose onto the **upward** stub. For ø32 hoses, use a short reducer sleeve.
 5. Air path is continuous: bit chamber → plenum → hose (no separate elbow).
 
+## Optional: endstop mounts
 
-## Optional: Anet A6 endstop mounts
+Print `endstop_mount_2020` ×4 (T-slot key + M5 into a T-nut; endstop on 2× M3 through slots) and optional `endstop_flag` ×0–4.
 
-Keep your Anet endstop modules as-is. Print `endstop_mount_2020` ×4 (T-slot key + M5 into a T-nut; Anet on 2× M3 through slots) and optional `endstop_flag` ×0–4.
+Placement (no holes in aluminium):
 
-Placement (min drilling — no holes in aluminium):
+1. **Y-L / Y-R** (dual-Y squaring): outer face of each upper side 380 near the rear (Y motors).
+2. **X home**: rear face of the bridge near the X motor.
+3. **Z home (up)**: front face of a Z column just under the motor tower.
 
-1. **Y-L / Y-R** (required for dual-Y squaring): outer face of each upper side 380 near the **rear** (Y motors). Leg presses the Anet blade at Y home.
-2. **X home**: rear face of the bridge near the X motor; carriage / X nut block presses the blade.
-3. **Z home (up)**: front face of a Z column just under the motor tower; top of the Z plate presses the blade.
-
-With only three Anet modules: fit **Y-L + Y-R + Z** first.
+With only three switches: fit **Y-L + Y-R + Z** first.
