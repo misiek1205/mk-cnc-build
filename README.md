@@ -30,8 +30,7 @@ If you want to **turn printer scrap into a mill that can cut wood / soft plastic
 | `docs/img/` | Assembly and per-part renders |
 | `bambu/` | Bambu Studio multi-plate projects: `MK_CNC_P1S.3mf`, `MK_CNC_A1_mini.3mf` |
 
-**Not included:** CadQuery parametric source, Fusion macros, firmware binaries.  
-The parametric / development repo stays separate. This pack is for **builders**.
+**Not included:** CadQuery parametric source, Fusion macros, firmware binaries — those stay local / unpublished. This repository is the single public build pack for **builders**.
 
 ## Quick specs
 
