@@ -90,7 +90,7 @@ One-piece stadium/capsule shoe with a **clamp slot** on the spindle and a single
 
 ## Optional: endstop mounts
 
-Print `endstop_mount_2020` ×4 (T-slot key + M5 into a T-nut; endstop on 2× M3 through slots) and optional `endstop_flag` ×0–4.
+Print `endstop_mount_2020` ×4 (T-slot key + M5 into a T-nut; bare microswitch (~12.5×5.8) on 2× M2 in a pocket) and optional `endstop_flag` ×0–4.
 
 Placement (no holes in aluminium):
 
@@ -99,3 +99,4 @@ Placement (no holes in aluminium):
 3. **Z home (up)**: front face of a Z column just under the motor tower.
 
 With only three switches: fit **Y-L + Y-R + Z** first.
+
